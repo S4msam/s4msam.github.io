@@ -1,6 +1,6 @@
 {
-    "name": "rfid",
-    "short_name": "rfid",
+    "name": "Aco",
+    "short_name": "Aco",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
